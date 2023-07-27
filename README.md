@@ -1,4 +1,5 @@
-Author: Maithreyi Mydur
+# Name: Maithreyi Mydur
+# Section: SDR0468
 Project: Data Science with R (final project)
 
 Directory structure
