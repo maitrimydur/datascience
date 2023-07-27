@@ -1,7 +1,5 @@
-# ------------------------------------
-# Author: Maithreyi Mydur
-# ------------------------------------
-
+# Name: Maithreyi Mydur
+# Section: SDR0468
 #
 # Install these packages from R-Studio 
 #
